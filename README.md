@@ -1,6 +1,8 @@
 # Dreamhouse Lightning Web Components Sample Application
 
-[![CI Workflow](https://github.com/trailheadapps/dreamhouse-lwc/workflows/CI/badge.svg)](https://github.com/trailheadapps/dreamhouse-lwc/actions?query=workflow%3ACI) [![Packaging Workflow](https://github.com/trailheadapps/dreamhouse-lwc/workflows/Packaging/badge.svg)](https://github.com/trailheadapps/dreamhouse-lwc/actions?query=workflow%3APackaging) [![codecov](https://codecov.io/gh/trailheadapps/dreamhouse-lwc/branch/main/graph/badge.svg)](https://codecov.io/gh/trailheadapps/dreamhouse-lwc)
+> **Fork Status:** This is an educational fork of [trailheadapps/dreamhouse-lwc](https://github.com/trailheadapps/dreamhouse-lwc). Its original CI, packaging, and issue-automation workflows require upstream infrastructure or credentials and are preserved under .github/upstream-workflows, not enabled here. Read [FORK_STATUS.md](FORK_STATUS.md) before using any deployment instructions. Upstream badges do not describe this fork.
+
+
 
 > IMPORTANT: This is the new Lightning Web Components version of the Dreamhouse sample application. If you are looking for the Aura version, click [here](https://github.com/dreamhouseapp/dreamhouse-sfdx).
 
